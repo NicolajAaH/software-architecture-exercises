@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "software-architecture-exercises1", "software-architecture-exercises1\software-architecture-exercises1.csproj", "{2950F418-BF74-4E57-86B0-E8E072AEF693}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "software-architecture-exercises1-1", "software-architecture-exercises1-1\software-architecture-exercises1-1.csproj", "{9B7048C4-BEAC-4733-9E8F-6C23AF38F33D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2950F418-BF74-4E57-86B0-E8E072AEF693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2950F418-BF74-4E57-86B0-E8E072AEF693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2950F418-BF74-4E57-86B0-E8E072AEF693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7048C4-BEAC-4733-9E8F-6C23AF38F33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7048C4-BEAC-4733-9E8F-6C23AF38F33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7048C4-BEAC-4733-9E8F-6C23AF38F33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7048C4-BEAC-4733-9E8F-6C23AF38F33D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
