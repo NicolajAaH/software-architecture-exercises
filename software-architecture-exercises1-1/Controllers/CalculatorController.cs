@@ -15,7 +15,7 @@ public class CalculatorController : ControllerBase
     }
 
     [HttpPost("/calculate/{firstValue}/{symbol}/{secondValue}")]
-    public Double Get(double firstValue, string symbol, double secondValue)
+    public Double Calculate(double firstValue, string symbol, double secondValue)
     {
         double res = 0;
         switch (symbol)
